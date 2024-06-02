@@ -1,0 +1,15 @@
+{
+	"id": "e23410d2-26f2-48ab-8edc-22b07437282e",
+	"values": [
+		{
+			"key": "Username",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-06-02T17:57:56.402Z",
+	"_postman_exported_using": "Postman/11.1.14"
+}
